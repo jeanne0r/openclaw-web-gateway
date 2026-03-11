@@ -1,5 +1,10 @@
 # OpenClaw Web Gateway
 
+![Python](https://img.shields.io/badge/python-3.10+-blue)
+![Flask](https://img.shields.io/badge/flask-web--gateway-black)
+![License](https://img.shields.io/badge/license-MIT-green)
+
+
 A cleaned and reusable Flask-based web interface for OpenClaw.
 
 This version removes personal data from the repository, moves local settings into configuration files, and keeps the project ready for GitHub.
