@@ -7,7 +7,7 @@
 
 Interface
 
-[Jarvis UI]
+![Jarvis UI](screenshots/jarvis-ui.png)
 
 A lightweight Flask web gateway for chatting with an OpenClaw agent from a shared browser UI.
 
