@@ -1,9 +1,6 @@
-# environment
-.env
-.env.*
-
-# local config
-config/participants.json
+# git
+.git
+.gitignore
 
 # python cache
 __pycache__/
@@ -11,22 +8,30 @@ __pycache__/
 *.pyo
 *.pyd
 
+# environments
+.venv/
+venv/
+
+# local env
+.env
+.env.*
+
 # runtime data
 memory/
 state/
 *.log
 
-# python environments
-.venv/
-venv/
+# local config
+config/participants.json
+
+# editors
+.vscode/
+.idea/
 
 # OS
 .DS_Store
 
-# editors
-.idea/
-.vscode/
-
-# optional
-*.sqlite
-*.db
+# python build
+build/
+dist/
+*.egg-info
