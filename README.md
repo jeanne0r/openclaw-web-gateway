@@ -136,4 +136,6 @@ It is **not yet**:
 
 ## License
 
-MIT
+MIT License © 2026 Romain Jeanneret
+
+See the LICENSE file for details.
