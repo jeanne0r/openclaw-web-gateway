@@ -5,6 +5,10 @@
 ![License](https://img.shields.io/badge/license-MIT-green)
 
 
+## Interface
+
+![Jarvis UI](screenshots/jarvis-ui.png)
+
 A cleaned and reusable Flask-based web interface for OpenClaw.
 
 This version removes personal data from the repository, moves local settings into configuration files, and keeps the project ready for GitHub.
